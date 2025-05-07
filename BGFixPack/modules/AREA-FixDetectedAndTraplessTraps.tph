@@ -81,7 +81,7 @@ BUT_ONLY
 END
 END
 
-/container trap points (i.e. guard spawn points)
+//container trap points (i.e. guard spawn points)
 ACTION_DEFINE_ARRAY arefile BEGIN ar3357 ar3309 ar4805 ar4905 ar0006 ar0007 ar0009 ar0010 ar0011 ar0012 ar0015 ar0016 ar0018 ar0018 ar0020 ar0021 ar0108 ar0116 ar0130 ar0143 ar0155 ar0155 ar0155 ar0156 ar0158 ar0160 ar0166 ar0166 ar0170 ar0303 ar0303 ar0606 ar0608 ar0611 ar0618 ar0707 ar0711 ar0717 ar0810 ar1103 ar1103 ar1103 ar1111 ar1205 ar1207 ar1304 ar1315 ar1006 ar1006  ar4905 END
 ACTION_DEFINE_ARRAY oldXoff BEGIN    468    468    404    212    276    276    212    468    212    276    532    312    345    341    232    276    916    700    612    335    316    321    327    276    212    212    717    728    212    212    436    724    404    262    276    468    468    468    724    262    270    267    468    468   1108    276    212    212    340     276 END
 ACTION_DEFINE_ARRAY oldYoff BEGIN    564    180    372    244    180    308    308    180    308    308    180    324    271    277    242    308    884    476   1134    390    327    341    320    308    308    308    311    313    308    372    276    372    340    371    308    180    180    180    372    269    268    270    500    180    308    180    308    308    308     244 END
